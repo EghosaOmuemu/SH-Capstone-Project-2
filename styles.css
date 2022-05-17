@@ -70,6 +70,11 @@ a.active, a:hover{
     .checkbtn{
       display: block;
     }
+
+    label.logo{
+        padding-left: 20px;
+    }
+
     ul{
       position: fixed;
       width: 100%;
